@@ -51,3 +51,10 @@ There are many aspects considered when choosing a hotel. The main idea is to fin
 <img src="https://user-images.githubusercontent.com/96882935/226996470-b9ada551-cb09-4dc1-b7b9-7f521da9b68d.png" width="800" height="600">
 
 ![newplot (1)](https://user-images.githubusercontent.com/96882935/226998378-33b74a2a-2f65-485b-a630-29d6555fe157.png)
+
+
+## Building Machine Leaning Models
+<img width="729" alt="Screenshot 2023-03-22 at 1 11 47 PM" src="https://user-images.githubusercontent.com/96882935/226998785-a3350b51-4310-4d7a-8fa2-111f403f325a.png">
+
+<img width="546" alt="Screenshot 2023-03-22 at 1 12 45 PM" src="https://user-images.githubusercontent.com/96882935/226999000-6bb01987-521b-45cb-ac1d-2c325662e70c.png">
+
