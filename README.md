@@ -58,3 +58,5 @@ There are many aspects considered when choosing a hotel. The main idea is to fin
 
 <img width="546" alt="Screenshot 2023-03-22 at 1 12 45 PM" src="https://user-images.githubusercontent.com/96882935/226999000-6bb01987-521b-45cb-ac1d-2c325662e70c.png">
 
+## Summary
+The given dataset is a supervised classification dataset. It holds booking information for a city hotel and a resort hotel with information such as How and when the booking was made, the length of passengers’ stay with the number of parking slots available, the number of adults, children, and babies. The Logistic regression, K-Nearest Neighbor, Decision Tree, Random Forest algorithms are used to handle this supervised classification model. Among these four machine learning algorithms, Random forest and Decision trees perform well with respect to accuracy.
