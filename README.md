@@ -50,4 +50,4 @@ There are many aspects considered when choosing a hotel. The main idea is to fin
 
 ![download](https://user-images.githubusercontent.com/96882935/226996470-b9ada551-cb09-4dc1-b7b9-7f521da9b68d.png)
 
-<img src="https://user-images.githubusercontent.com/96882935/226996368-3164365d-2b8c-4d20-bd52-0a1892dabfff.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/96882935/226996368-3164365d-2b8c-4d20-bd52-0a1892dabfff.png" width="400" height="300">
